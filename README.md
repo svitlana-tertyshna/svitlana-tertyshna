@@ -45,7 +45,11 @@ My background combines technical problem-solving, an understanding of healthcare
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+
 ### 🚀 Featured Projects
+
+#### 📚 [Book Store REST API](https://github.com/svitlana-tertyshna/book-store)
+Java 17 and Spring Boot backend project for an online bookstore, using Spring Data JPA, MySQL, Spring Security, JWT, and Liquibase.
 
 #### 🎬 [Cinema Reservation System](https://github.com/svitlana-tertyshna/my-cinema-app)
 Java web application featuring authentication, role-based access control, ticket reservations, and order management.
